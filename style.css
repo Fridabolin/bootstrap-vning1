@@ -1,0 +1,23 @@
+
+
+.background {
+
+    background-image:url(jonny-mckenna-4igCpD-Lnfg-unsplash.jpg);
+   background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
+    
+}
+
+.container {
+
+    padding: 200px;
+    width: fit-content;
+}
+
+.card {
+
+    border-width: 2px;
+    border-color: #F2F2F2;  
+}
+
